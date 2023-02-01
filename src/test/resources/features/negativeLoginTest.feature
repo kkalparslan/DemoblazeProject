@@ -16,3 +16,4 @@ Feature: Negative Login Test - The user should NOT able to login with invalid cr
       | alpimka         | invalidPassword | Wrong password.                        |
       | invalidUsername | 12345678        | User does not exist.                   |
 
+
